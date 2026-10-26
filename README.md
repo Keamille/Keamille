@@ -1,6 +1,6 @@
 # 区
-立志成为后端开发，游戏开发
-python，agent，go学习中📑
+* 立志成为后端开发，游戏开发
+* python，agent，go学习中📑
 <!--
 **Keamille/Keamille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
