@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keamille&layout=compact&hide_border=true" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=keamille&layout=compact&hide_border=true" />
     </td>
     <td valign="top" align="right" width="220">
       <img src="img/IMG_3914.jpg" width="200" />
